@@ -1,16 +1,13 @@
-## Hi there 👋
+# Greetings, I'm Benoit Theriault 
 
-<!--
-**theriaubenoit-ops/theriaubenoit-ops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## At the intersection of design, architecture, and software engineering
 
-Here are some ideas to get you started:
+With a multidisciplinary background—ranging from architectural signage to complex web solutions—I cultivate a rigorous approach, honed by years of collaboration with developers, architects, engineers, and medical professionals.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 The aNA AI project
+The *aNA AI project* is not a mere technical tool, but an allegory translating the elegance of living mechanisms into the digital world. Between **behavioral psychology**, **ethics**, and **neuroinformatics**, my work offers a new interpretation and a new vision of AI: an architecture cultivated with precision and the intention to inspire the future.
+
+---
+**Tech Stack:** `HTML` | `CSS` | `JS` | `Python`
+
+*░▒▓ BT *
