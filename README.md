@@ -10,4 +10,4 @@ The *aNA AI project* is not a mere technical tool, but an allegory translating t
 ---
 **Tech Stack:** `HTML` | `CSS` | `JS` | `Python`
 
-<i>░▒▓ BT</i>
+░▒▓ <i>BT</i>
