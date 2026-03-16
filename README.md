@@ -6,7 +6,7 @@ With a multidisciplinary background—ranging from architectural signage to comp
 
 ### ✴️ The aNA AI project
 
-The [/aNA-ai](/aNA-ai) project is not a mere technical tool, but an allegory translating the elegance of living mechanisms into the digital world. Between **behavioral psychology**, **ethics**, and **neuroinformatics**, my work offers a new interpretation and a new vision of AI: an architecture cultivated with precision and the intention to inspire the future.
+The [aNA-ai](https://github.com/theriaubenoit-ops/aNA-ai) project is not a mere technical tool, but an allegory translating the elegance of living mechanisms into the digital world. Between **behavioral psychology**, **ethics**, and **neuroinformatics**, my work offers a new interpretation and a new vision of AI: an architecture cultivated with precision and the intention to inspire the future.
 
 ---
 
