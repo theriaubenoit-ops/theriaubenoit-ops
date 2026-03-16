@@ -1,4 +1,4 @@
-# Greetings, I'm Benoit Theriault 
+# Greetings, 
 
 ## At the intersection of design, architecture, and software engineering
 
