@@ -29,4 +29,5 @@ Memory Robustness: Ensures that my _neural networks_ can reconstruct patterns fr
 
 **Tech Stack:** `HTML` | `CSS` | `JS` | `Python`
 
-_░▒▓ BT_
+_░▒▓ BT — Multidisciplinary Creative Professional_
+
