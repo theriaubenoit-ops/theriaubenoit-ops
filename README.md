@@ -10,6 +10,27 @@ The [aNA-ai](https://github.com/theriaubenoit-ops/aNA-ai) project is an allegory
 
 ---
 
+### Scientific Foundations & Inspirations
+
+_Thank you for paving the way for future discoveries and innovations in this fascinating field. Your contributions to neuroscience and artificial intelligence are invaluable. Some of your works have inspired me. It allows me to better understand and design more efficient bio-inspired neural networks._
+
+**[Santiago Ramon y Cajal](https://en.wikipedia.org/wiki/Santiago_Ram%C3%B3n_y_Cajal)**
+The Neuron Doctrine: Inspires my discrete node processing and the modular structure of _aNA_.
+
+**[Donald O. Hebb](https://en.wikipedia.org/wiki/Donald_O._Hebb)**
+Synaptic Learning: The foundation of my Targeted Plasticity and granular weight update logic.
+
+**[Karl J. Friston](https://en.wikipedia.org/wiki/Karl_J._Friston)**
+Active Inference: Guides my predictive coherence models to minimize internal noise and hallucinations.
+
+**[Carver Mead](https://en.wikipedia.org/wiki/Carver_Mead)**
+Neuromorphic Efficiency: The cornerstone of my drive for low-power, bio-inspired computing.
+
+**[John Hopfield](https://en.wikipedia.org/wiki/John_Hopfield)**
+Memory Robustness: Ensures that my neural networks can reconstruct patterns from noisy or partial data.
+
+---
+
 **Tech Stack:** `HTML` | `CSS` | `JS` | `Python`
 
 _░▒▓ BT_
