@@ -16,16 +16,16 @@ The [aNA-ai](https://github.com/theriaubenoit-ops/aNA-ai) project is an allegory
 The Neuron Doctrine: Inspires my discrete node processing and the modular structure of _aNA_.
 
 **[Donald O. Hebb](https://en.wikipedia.org/wiki/Donald_O._Hebb)**
-Synaptic Learning: The foundation of my Targeted Plasticity and granular weight update logic.
+Synaptic Learning: The foundation of my _Targeted Plasticity_ and _granular weight_ update logic.
 
 **[Karl J. Friston](https://en.wikipedia.org/wiki/Karl_J._Friston)**
-Active Inference: Guides my predictive coherence models to minimize internal noise and hallucinations.
+Active Inference: Guides my predictive coherence models to minimize internal _"noise"_ and _"hallucinations"_.
 
 **[Carver Mead](https://en.wikipedia.org/wiki/Carver_Mead)**
-Neuromorphic Efficiency: The cornerstone of my drive for low-power, bio-inspired computing.
+Neuromorphic Efficiency: The cornerstone of my drive for _low-power_, _bio-inspired_ computing.
 
 **[John Hopfield](https://en.wikipedia.org/wiki/John_Hopfield)**
-Memory Robustness: Ensures that my neural networks can reconstruct patterns from noisy or partial data.
+Memory Robustness: Ensures that my _neural networks_ can reconstruct patterns from _noisy_ or _partial data_.
 
 ---
 
