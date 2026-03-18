@@ -12,8 +12,6 @@ The [aNA-ai](https://github.com/theriaubenoit-ops/aNA-ai) project is an allegory
 
 ### Scientific Foundations & Inspirations
 
-_Thank you for paving the way for future discoveries and innovations in this fascinating field. Your contributions to neuroscience and artificial intelligence are invaluable. Some of your works have inspired me. It allows me to better understand and design more efficient bio-inspired neural networks._
-
 **[Santiago Ramon y Cajal](https://en.wikipedia.org/wiki/Santiago_Ram%C3%B3n_y_Cajal)**
 The Neuron Doctrine: Inspires my discrete node processing and the modular structure of _aNA_.
 
