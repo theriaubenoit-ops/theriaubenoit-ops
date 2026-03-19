@@ -18,20 +18,20 @@ With a multidisciplinary background—ranging from architectural signage to comp
 
 ### 🏛️ Scientific Foundations & Inspirations
 
-_[Santiago Ramon y Cajal](https://en.wikipedia.org/wiki/Santiago_Ram%C3%B3n_y_Cajal)_
-**The Neuron Doctrine:** Inspires the discrete node processing and modular structure.
+**The Neuron Doctrine:** _[Santiago Ramon y Cajal](https://en.wikipedia.org/wiki/Santiago_Ram%C3%B3n_y_Cajal)_
+Inspires the discrete node processing and modular structure.
 
-_[Donald O. Hebb](https://en.wikipedia.org/wiki/Donald_O._Hebb)_
-**Synaptic Learning:** The foundation of _Targeted Plasticity_ and granular weight updates.
+**Synaptic Learning:** _[Donald O. Hebb](https://en.wikipedia.org/wiki/Donald_O._Hebb)_
+The foundation of _Targeted Plasticity_ and granular weight updates.
 
-_[Karl J. Friston](https://en.wikipedia.org/wiki/Karl_J._Friston)_
-**Active Inference:** Guides predictive coherence to minimize internal _"noise"_.
+**Active Inference:** _[Karl J. Friston](https://en.wikipedia.org/wiki/Karl_J._Friston)_
+Guides predictive coherence to minimize internal _"noise"_.
 
-_[Carver Mead](https://en.wikipedia.org/wiki/Carver_Mead)_
-**Neuromorphic Efficiency:** The cornerstone of _low-power_, _bio-inspired_ computing.
+**Neuromorphic Efficiency:** _[Carver Mead](https://en.wikipedia.org/wiki/Carver_Mead)_
+The cornerstone of _low-power_, _bio-inspired_ computing.
 
-_[John Hopfield](https://en.wikipedia.org/wiki/John_Hopfield)_
-**Memory Robustness:** Ensures pattern reconstruction from noisy or partial data.
+**Memory Robustness:** _[John Hopfield](https://en.wikipedia.org/wiki/John_Hopfield)_
+Ensures pattern reconstruction from noisy or partial data.
 
 ---
 
