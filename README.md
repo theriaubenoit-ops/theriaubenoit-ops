@@ -1,32 +1,40 @@
+🚀 Quick links _(aNA-ai)_: [ReadMe](https://github.com/theriaubenoit-ops/aNA-ai/blob/main/README.md), [Philosophy](https://github.com/theriaubenoit-ops/aNA-ai/blob/main/docs/philosophy.md), [Genesis](https://github.com/theriaubenoit-ops/aNA-ai/blob/main/docs/genesis.md)
+
 # Greetings,
 
 ## At the intersection of design, architecture, and software engineering
 
-With a multidisciplinary background—ranging from architectural signage to complex web solutions—I cultivate a rigorous approach, honed by years of collaboration with developers, architects, engineers, and medical professionals.
+With a multidisciplinary background—ranging from architectural signage to complex web solutions—cultivated by a rigorous approach honed by years of collaboration with developers, architects, engineers, and medical professionals. At the intersection of **behavioral psychology**, **ethics**, and **neuroinformatics**, this work is driven by a profound fascination for neural processes and the pursuit of elegant, functional structures.
 
-### The ✴️aNA AI project
+### ✴️aNA AI Project: A Digital Allegory
 
-The **[aNA-ai](https://github.com/theriaubenoit-ops/aNA-ai)** project is an allegory translating the elegance of living mechanisms—from the _thalamus_, _hippocampus_, _amygdala_, _cerebellum_, and _five neuromodulators_ to the _six-layered cortical columns_—into the digital world, featuring _real plasticity_, _concentration mode_, _dynamic memory_, _emotional integration_, and _high energy efficiency_. At the intersection of **behavioral psychology**, **ethics**, and **neuroinformatics**, this work is more than a mere technical tool; it offers a new vision for the next generation of AI: an architecture cultivated with a precise analysis of biology and the intention to inspire the future.
+**[aNA-ai](https://github.com/theriaubenoit-ops/aNA-ai)** translates the elegance of biological mechanisms into the digital world. It is not a mere technical tool, but a new vision for the next generation of AI—cultivated with precision and intention.
 
-### Scientific Foundations & Inspirations
+**Core Systems:** _Thalamus, Hippocampus, Amygdala, Cerebellum._
+
+**Neural Matrix:** _6-layered Cortical Columns & 5 key Neuromodulators._
+
+**Key Features:** _Real Plasticity, Dynamic Memory, Emotional Integration, and High Energy Efficiency._
+
+### 🏛️ Scientific Foundations & Inspirations
 
 _[Santiago Ramon y Cajal](https://en.wikipedia.org/wiki/Santiago_Ram%C3%B3n_y_Cajal)_
-**The Neuron Doctrine:** Inspires my discrete node processing and the modular structure of _aNA_.
+**The Neuron Doctrine:** Inspires the discrete node processing and modular structure.
 
 _[Donald O. Hebb](https://en.wikipedia.org/wiki/Donald_O._Hebb)_
-**Synaptic Learning:** The foundation of my _Targeted Plasticity_ and _granular weight_ update logic.
+**Synaptic Learning:** The foundation of _Targeted Plasticity_ and granular weight updates.
 
 _[Karl J. Friston](https://en.wikipedia.org/wiki/Karl_J._Friston)_
-**Active Inference:** Guides my predictive coherence models to minimize internal _"noise"_ and _"hallucinations"_.
+**Active Inference:** Guides predictive coherence to minimize internal _"noise"_.
 
 _[Carver Mead](https://en.wikipedia.org/wiki/Carver_Mead)_
-**Neuromorphic Efficiency:** The cornerstone of my drive for _low-power_, _bio-inspired_ computing.
+**Neuromorphic Efficiency:** The cornerstone of _low-power_, _bio-inspired_ computing.
 
 _[John Hopfield](https://en.wikipedia.org/wiki/John_Hopfield)_
-**Memory Robustness:** Ensures that my _neural networks_ can reconstruct patterns from _noisy_ or _partial data_.
+**Memory Robustness:** Ensures pattern reconstruction from noisy or partial data.
 
 ---
 
-**Tech Stack:** `HTML` | `CSS` | `JS` | `Python`
+**⚒️ Tech Stack & Expertise:** `HTML` | `CSS` | `JS` | `Python` | `Neuro-architecting`
 
 _░▒▓ BT — Multidisciplinary Creative Professional_
