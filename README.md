@@ -39,7 +39,7 @@ Ensures pattern reconstruction from _noisy_or \_partial data_.
 
 ---
 
-**⚒️ Tech Stack & Expertise:** `HTML` | `CSS` | `JS` | `Python` | `Neuro-architecting`
+**⚒️ Tech Stack & Expertise:** `HTML` | `CSS` | `JavaScript` | `Python` | `Neuro-architecting`
 
 ![Profile Views](https://komarev.com/ghpvc/?username=theriaubenoit-ops&color=181c1f&style=flat-square&label=PROFILE+VIEWS)
 
