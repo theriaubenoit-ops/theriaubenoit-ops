@@ -1,4 +1,4 @@
-🚀 Quick links _(aNA-ai)_: [ReadMe](https://github.com/theriaubenoit-ops/aNA-ai/blob/main/README.md), [Philosophy](https://github.com/theriaubenoit-ops/aNA-ai/blob/main/docs/philosophy.md), [Genesis](https://github.com/theriaubenoit-ops/aNA-ai/blob/main/docs/genesis.md)
+🚀 Quick links _(aNA-ai)_: [ReadMe](https://github.com/theriaubenoit-ops/aNA-ai/blob/alpha-v5.1/README.md), [Philosophy](https://github.com/theriaubenoit-ops/aNA-ai/blob/alpha-v5.1/docs/philosophy.md), [Genesis](https://github.com/theriaubenoit-ops/aNA-ai/blob/alpha-v5.1/docs/genesis.md)
 
 # Greetings,
 
