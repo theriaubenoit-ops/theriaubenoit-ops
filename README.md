@@ -1,4 +1,4 @@
-🚀 Quick links _(aNA-ai)_: [ReadMe](https://github.com/theriaubenoit-ops/aNA-ai/blob/alpha-v5.1/README.md), [Philosophy](https://github.com/theriaubenoit-ops/aNA-ai/blob/alpha-v5.1/docs/philosophy.md), [Genesis](https://github.com/theriaubenoit-ops/aNA-ai/blob/alpha-v5.1/docs/genesis.md)
+🚀 Quick links _(aNA-ai)_: [ReadMe](https://github.com/theriaubenoit-ops/aNA-ai/blob/README.md), [Philosophy](https://github.com/theriaubenoit-ops/aNA-ai/blob/docs/philosophy.md), [Genesis](https://github.com/theriaubenoit-ops/aNA-ai/blob/docs/genesis.md)
 
 # Greetings,
 
@@ -10,7 +10,7 @@ With a multidisciplinary background—ranging from architectural signage to comp
 
 ### ✴️aNA AI Project: A Digital Allegory
 
-**[aNA-ai](https://github.com/theriaubenoit-ops/aNA-ai/tree/alpha-v5.1)** translates the elegance of biological mechanisms into the digital world. It is not a mere technical tool, but a new vision for the next generation of AI—cultivated with precision and intention.
+**[aNA-ai](https://github.com/theriaubenoit-ops/aNA-ai)** translates the elegance of biological mechanisms into the digital world. It is not a mere technical tool, but a new vision for the next generation of AI—cultivated with precision and intention.
 
 **Core Systems:** _Thalamus, Hippocampus, Amygdala, Cerebellum._
 
