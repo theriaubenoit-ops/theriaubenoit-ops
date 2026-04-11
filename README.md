@@ -35,11 +35,11 @@ Guides predictive coherence to minimize internal _"noise"_.
 The cornerstone of _low-power_, _bio-inspired_ computing.
 
 **Memory Robustness** _—[John Hopfield](https://en.wikipedia.org/wiki/John_Hopfield)_:
-Ensures pattern reconstruction from _noisy_or \_partial data_.
+Ensures pattern reconstruction from _noisy_ or _partial data_.
 
 ---
 
-**⚒️ Tech Stack & Expertise:** `HTML` | `CSS` | `JavaScript` | `Python` | `Neuro-architecting`
+**⚒️ Tech Stack & Expertise:** `HTML` | `CSS` | `JavaScript` | `Python` | `Bash` | `VS Code` | `Linux` | `Apple` | `Neuro-architecting`
 
 ![Profile Views](https://komarev.com/ghpvc/?username=theriaubenoit-ops&color=181c1f&style=flat-square&label=PROFILE+VIEWS)
 
