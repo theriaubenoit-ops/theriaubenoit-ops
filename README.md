@@ -12,11 +12,13 @@ With a multidisciplinary background—ranging from architectural signage to comp
 
 **[aNA-ai](https://github.com/theriaubenoit-ops/aNA-ai)** translates the elegance of biological mechanisms into the digital world. It is not a mere technical tool, but a new vision for the next generation of AI—cultivated with precision and intention.
 
-**Core Systems:** _Thalamus, Hippocampus, Amygdala, Cerebellum._
+- ☄️ **Core Systems:** _Thalamus, Hippocampus, Amygdala, Cerebellum._
 
-**Neural Matrix:** _6-layered Cortical Columns & 5 key Neuromodulators._
+- ☄️ **Neural Matrix:** _6-layered Cortical Columns & 5 key Neuromodulators._
 
-**Key Features:** _Real Plasticity, Dynamic Memory, Emotional Integration, and High Energy Efficiency._
+- ☄️ **Key Features:** _Real Plasticity, Dynamic Memory, Emotional Integration, and High Energy Efficiency._
+
+☄️ _Spotlight_
 
 ---
 
