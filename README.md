@@ -43,6 +43,6 @@ Ensures pattern reconstruction from _noisy_ or _partial data_.
 
 **⚒️ Tech Stack & Expertise:** `HTML` | `CSS` | `JavaScript` | `Python` | `Bash` | `VS Code` | `Linux` | `Apple` | `Neuro-architecting`
 
-![Profile Views](https://komarev.com/ghpvc/?username=theriaubenoit-ops&color=181c1f&style=flat-square&label=PROFILE+VIEWS)
+a href="#start-of-content" style="text-decoration: none !important;">![Profile Views](https://komarev.com/ghpvc/?username=theriaubenoit-ops&color=181c1f&style=flat-square&label=PROFILE+VIEWS)</a>
 
 _░▒▓ BT — Multidisciplinary Creative Professional_
