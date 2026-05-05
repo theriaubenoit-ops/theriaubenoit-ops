@@ -28,7 +28,6 @@ With a multidisciplinary background—ranging from architectural signage to comp
 > "AI must be a tool for scientific discovery, a meta-solution to help humanity decode the complexity of nature."
 > — **Demis Hassabis**, _guiding our quest for noble and ethical utility._
 
----
 
 ### 🏛️ Scientific Foundations & Inspirations
 
