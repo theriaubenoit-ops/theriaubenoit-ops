@@ -22,7 +22,7 @@ With a multidisciplinary background—ranging from architectural signage to comp
 
 ---
 
-> "The challenge of AI is not to predict the next word, but to build a model of the world capable of predicting the consequences of its actions."
+> "The challenge of AI is not simply to predict the next word, but to build a model of the world capable of predicting the consequences of its actions."
 > — **Yann LeCun**, _inspiring our structural approach to neurons._
 
 > "AI must be a tool for scientific discovery, a meta-solution to help humanity decode the complexity of nature."
