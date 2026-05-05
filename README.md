@@ -22,8 +22,6 @@ With a multidisciplinary background—ranging from architectural signage to comp
 
 ---
 
-### 🌐 Vision & Foundations
-
 > "The challenge of AI is not to predict the next word, but to build a model of the world capable of predicting the consequences of its actions."
 > — **Yann LeCun**, _inspiring our structural approach to neurons._
 
