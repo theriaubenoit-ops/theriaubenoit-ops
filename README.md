@@ -4,8 +4,7 @@
 
 ## At the intersection of design, architecture, and software engineering
 
-With a multidisciplinary background—ranging from architectural signage to complex web solutions—cultivated by a rigorous approach honed by years of collaboration with developers, architects, engineers, and medical professionals. At the intersection of **behavioral psychology**, **ethics**, and **neuroinformatics**, this work is driven by a profound fascination for neural processes and the pursuit of elegant, functional structures.
-
+With a multidisciplinary background—ranging from architectural signage to complex web solutions—cultivated by a rigorous approach honed by years of collaboration with developers, architects, engineers, and medical professionals. At the intersection of **behavioral psychology**, **ethical engineering**, **philosophy**, and **neuroinformatics**, this work is driven by a profound fascination for neural processes and the pursuit of elegant, functional structures.
 ---
 
 ### ✴️aNA AI Project: A Digital Allegory
