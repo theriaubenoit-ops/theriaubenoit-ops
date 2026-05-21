@@ -20,6 +20,8 @@ With a multidisciplinary background—ranging from architectural signage to comp
 
 ☄️ _Spotlight_
 
+[Read more ▶️](https://github.com/theriaubenoit-ops/aNA-ai/blob/main/README.md)
+
 ---
 
 > "The challenge of AI is not simply to predict the next word, but to build a model of the world capable of predicting the consequences of its actions."
