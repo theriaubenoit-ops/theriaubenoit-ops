@@ -20,7 +20,7 @@ With a multidisciplinary background—ranging from architectural signage to comp
 
 ☄️ _Spotlight_
 
-[Read more ▶️](https://github.com/theriaubenoit-ops/aNA-ai/blob/main/README.md)
+[See more ▶️](https://github.com/theriaubenoit-ops/aNA-ai/blob/main/README.md)
 
 ---
 
