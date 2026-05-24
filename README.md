@@ -1,6 +1,6 @@
 🚀 Quick link _(aNA-ai)_: [ReadMe](https://github.com/theriaubenoit-ops/aNA-ai/blob/main/README.md)
 
-# Greetings,
+# _Greetings,_
 
 ## At the intersection of design, architecture, and software engineering
 
@@ -10,7 +10,7 @@ With a multidisciplinary background—ranging from architectural signage to comp
 
 ### ✴️*aNA AI* Project: A Digital Allegory
 
-_**[aNA-ai](https://github.com/theriaubenoit-ops/aNA-ai)**_ translates the elegance of biological mechanisms into the digital world. It is not a mere technical tool, but a new vision for the next generation of AI—cultivated with precision and intention.
+_**[aNA-ai](https://github.com/theriaubenoit-ops/aNA-ai)**_ translates the elegance of biological mechanisms into the digital world. It is not a mere technical tool, but a new vision for the next generation of _AI_—cultivated with precision and intention.
 
 - ☄️ **Core Systems:** _Thalamus, Hippocampus, Amygdala, Cerebellum._
 
