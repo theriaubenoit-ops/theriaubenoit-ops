@@ -24,7 +24,7 @@ _**[aNA-ai](https://github.com/theriaubenoit-ops/aNA-ai)**_ translates the elega
 
 ---
 
-> "The challenge of AI is not to simply predict the next word, but to build a model of the world capable of predicting the consequences of its actions."
+> _"The challenge of AI is not to simply predict the next word, but to build a model of the world capable of predicting the consequences of its actions."_
 > — **Yann LeCun**, _inspiring our structural approach to neurons._
 
 ### 🏛️ Scientific Foundations & Inspirations
@@ -44,7 +44,7 @@ The cornerstone of _low-power_, _bio-inspired_ computing.
 **Memory Robustness** _—[John Hopfield](https://en.wikipedia.org/wiki/John_Hopfield)_:
 Ensures pattern reconstruction from _noisy_ or _partial data_.
 
-> "AI must be a tool for scientific discovery, a meta-solution to help humanity decode the complexity of nature."
+> _"AI must be a tool for scientific discovery, a meta-solution to help humanity decode the complexity of nature."_
 > — **Demis Hassabis**, _guiding our quest for noble and ethical utility._
 
 ---
