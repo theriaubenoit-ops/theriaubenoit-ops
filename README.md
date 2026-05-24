@@ -2,15 +2,15 @@
 
 # Greetings,
 
-## At the intersection of design, architecture, and software engineering 
+## At the intersection of design, architecture, and software engineering
 
 With a multidisciplinary background—ranging from architectural signage to complex web solutions—cultivated by a rigorous approach honed by years of collaboration with developers, architects, engineers, and medical professionals. At the intersection of **behavioral psychology**, **ethical engineering**, **philosophy**, and **neuroinformatics**, this work is driven by a profound fascination for neural processes and the pursuit of elegant, functional structures.
 
 ---
 
-### ✴️aNA AI Project: A Digital Allegory
+### ✴️*aNA AI* Project: A Digital Allegory
 
-**[aNA-ai](https://github.com/theriaubenoit-ops/aNA-ai)** translates the elegance of biological mechanisms into the digital world. It is not a mere technical tool, but a new vision for the next generation of AI—cultivated with precision and intention.
+_**[aNA-ai](https://github.com/theriaubenoit-ops/aNA-ai)**_ translates the elegance of biological mechanisms into the digital world. It is not a mere technical tool, but a new vision for the next generation of AI—cultivated with precision and intention.
 
 - ☄️ **Core Systems:** _Thalamus, Hippocampus, Amygdala, Cerebellum._
 
@@ -24,7 +24,7 @@ With a multidisciplinary background—ranging from architectural signage to comp
 
 ---
 
-> "The challenge of AI is not simply to predict the next word, but to build a model of the world capable of predicting the consequences of its actions."
+> "The challenge of AI is not to simply predict the next word, but to build a model of the world capable of predicting the consequences of its actions."
 > — **Yann LeCun**, _inspiring our structural approach to neurons._
 
 ### 🏛️ Scientific Foundations & Inspirations
