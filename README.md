@@ -47,7 +47,7 @@ The cornerstone of _low-power_, _bio-inspired_ computing.
 **Memory Robustness** _—[John Hopfield](https://en.wikipedia.org/wiki/John_Hopfield)_:
 Ensures pattern reconstruction from _noisy_ or _partial data_.
 
-> _The current AI methods [...] are likely not how the human brain works, noting that 'we clearly don’t need all the labeled data' to learn."_
+> _"The current AI methods [...] are likely not how the human brain works, noting that 'we clearly don’t need all the labeled data' to learn."_
 > —_**Geoffrey Hinton**, validating our fundamental principles._
 
 ---
