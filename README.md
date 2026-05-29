@@ -6,6 +6,9 @@
 
 With a multidisciplinary background—ranging from architectural signage to complex web solutions—cultivated by a rigorous approach honed by years of collaboration with developers, architects, engineers, and medical professionals. At the intersection of **behavioral psychology**, **ethical engineering**, **philosophy**, and **neuroinformatics**, this work is driven by a profound fascination for neural processes and the pursuit of elegant, functional structures.
 
+> _"AI must be a tool for scientific discovery, a meta-solution to help humanity decode the complexity of nature."_
+> —_**Demis Hassabis**, guiding our quest for noble and ethical utility._
+
 ---
 
 ### ✴️*aNA AI* Project: A Digital Allegory
@@ -22,10 +25,10 @@ _**[aNA-ai](https://github.com/theriaubenoit-ops/aNA-ai)**_ translates the elega
 
 [More ▶️](https://github.com/theriaubenoit-ops/aNA-ai/blob/main/README.md)
 
----
-
 > _"The challenge of AI is not to simply predict the next word, but to build a model of the world capable of predicting the consequences of its actions."_
 > — _**Yann LeCun**, inspiring our structural approach to neurons._
+
+---
 
 ### 🏛️ Scientific Foundations & Inspirations
 
@@ -44,8 +47,8 @@ The cornerstone of _low-power_, _bio-inspired_ computing.
 **Memory Robustness** _—[John Hopfield](https://en.wikipedia.org/wiki/John_Hopfield)_:
 Ensures pattern reconstruction from _noisy_ or _partial data_.
 
-> _"AI must be a tool for scientific discovery, a meta-solution to help humanity decode the complexity of nature."_
-> —_**Demis Hassabis**, guiding our quest for noble and ethical utility._
+> _About LLMs: "Start again. [...] I don't think it's how the brain works. We clearly don't need all these massive computing resources."_
+> —_**Geoffrey Hinton**_
 
 ---
 
