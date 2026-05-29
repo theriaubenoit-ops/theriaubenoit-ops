@@ -48,7 +48,7 @@ The cornerstone of _low-power_, _bio-inspired_ computing.
 Ensures pattern reconstruction from _noisy_ or _partial data_.
 
 > _About LLMs: "Start again. [...] I don't think it's how the brain works. We clearly don't need all these massive computing resources."_
-> —_**Geoffrey Hinton**, validing our fundamental principles._
+> —_**Geoffrey Hinton**, validating our fundamental principles._
 
 ---
 
