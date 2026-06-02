@@ -1,4 +1,4 @@
-🚀 Quick link _(**aNA-ai**)_: [ReadMe(.md)](https://github.com/theriaubenoit-ops/aNA-ai/blob/main/README.md)
+🚀 Quick link _(**aNA-ai**)_: [ReadMe](https://github.com/theriaubenoit-ops/aNA-ai/blob/main/README.md)
 
 # _Greetings,_
 
