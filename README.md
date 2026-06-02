@@ -32,19 +32,19 @@ _**[aNA-ai](https://github.com/theriaubenoit-ops/aNA-ai)**_ translates the elega
 
 ### 🏛️ Scientific Foundations & Inspirations
 
-**The Neuron Doctrine** _—[Santiago Ramon y Cajal (wiki)](https://en.wikipedia.org/wiki/Santiago_Ram%C3%B3n_y_Cajal)_:
+**The Neuron Doctrine** _—[Santiago Ramon y Cajal](https://en.wikipedia.org/wiki/Santiago_Ram%C3%B3n_y_Cajal)_:
 Inspires the discrete node processing and modular structure.
 
-**Synaptic Learning** _—[Donald O. Hebb (wiki)](https://en.wikipedia.org/wiki/Donald_O._Hebb)_:
+**Synaptic Learning** _—[Donald O. Hebb](https://en.wikipedia.org/wiki/Donald_O._Hebb)_:
 The foundation of _Targeted Plasticity_ and granular weight updates.
 
-**Active Inference** _—[Karl J. Friston (wiki)](https://en.wikipedia.org/wiki/Karl_J._Friston)_:
+**Active Inference** _—[Karl J. Friston](https://en.wikipedia.org/wiki/Karl_J._Friston)_:
 Guides predictive coherence to minimize internal _"noise"_.
 
-**Neuromorphic Efficiency** _—[Carver Mead (wiki)](https://en.wikipedia.org/wiki/Carver_Mead)_:
+**Neuromorphic Efficiency** _—[Carver Mead](https://en.wikipedia.org/wiki/Carver_Mead)_:
 The cornerstone of _low-power_, _bio-inspired_ computing.
 
-**Memory Robustness** _—[John Hopfield (wiki)](https://en.wikipedia.org/wiki/John_Hopfield)_:
+**Memory Robustness** _—[John Hopfield](https://en.wikipedia.org/wiki/John_Hopfield)_:
 Ensures pattern reconstruction from _noisy_ or _partial data_.
 
 > _"The current AI methods [...] are likely not how the human brain works, noting that 'we clearly don’t need all the labeled data' to learn."_
